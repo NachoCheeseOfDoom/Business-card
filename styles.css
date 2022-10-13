@@ -1,0 +1,27 @@
+body{
+  margin: 20px;
+}
+.my-img{
+  width: 150px;
+  border-radius: 20px;
+}
+
+.card{
+  margin: auto;
+  width: 400px;
+  text-align: center;
+  padding: 20px;
+  display: flex ;
+  justify-content: space-around;
+  background-color: #ddebf8;
+}
+
+.img-div{
+}
+
+.contain{
+}
+
+.dotted-border{
+  border: blue 2px dotted;
+}
